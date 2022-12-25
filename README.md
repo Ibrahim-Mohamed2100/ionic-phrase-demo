@@ -1,3 +1,3 @@
 # ionic-phrase-demo
 
-ionic app
+ionic app# ionic-phrase-app
