@@ -1,18 +1,14 @@
 {
-  "Demo": {
-    "Labels": {
-      "typography": "الخطوط",
-      "ctaHeader": "عنوان خط كبير",
-      "mainHeader": "عنوان خط كبير",
-      "secondaryHeader": "عنوان ثانوي",
-      "mainBodyBold": "نص رئيسي عريض",
-      "mainBodyRegular": "نص رئيسي عادي",
-      "secondaryBodyBold": "نص ثانوي عريض",
-      "secondaryBodyRegular": "نص ثانوي عادي",
-      "tagText": "وسم",
-      "TypographyHeaderMain": "في الحياةِ التي نعرفْ لحظاتٌ",
-      "TypographyHeaderSecondary": "في الحياةِ التي نعرفْ لحظاتٌ قد يُصادفُ أنْ يمرُّ بها بعضنا. ",
-      "TypographyBody": "في الحياةِ التي نعرفْ لحظاتٌ قد يُصادفُ أنْ يمرُّ بها بعضنا. وفي الحياةِ الّتي لا نعرفْ، أشياءٌ سنقرأ عنها ذات يومْ."
+  "Screen": {
+    "Root": {
+      "Home": {
+        "Emptystate": {
+          "Body": "دلوقتي تقدر تنضم لكذا جمعية",
+          "button": "انضم الآن",
+          "Heading": "يالها من صفقة جيدة!"
+        },
+        "Heading": "الرئيسية"
+      }
     }
   }
 }
