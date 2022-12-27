@@ -8,4 +8,4 @@ phrase:
     - file: ./src/assets/translations/<locale_code>.json          
   pull:
     targets:
-    - file: ./src/assets/translations/<locale_code.json
+    - file: ./src/assets/translations/<locale_code>.json
