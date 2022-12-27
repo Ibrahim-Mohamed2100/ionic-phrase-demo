@@ -1,11 +1,11 @@
 phrase:
-  access_token: ACCESS_TOKEN #Add your personal access token to authenticate, you can find the steps on how to create one here: https://help.phrase.com/help/access-tokens
-  project_id: PROJECT_ID #The public Project ID which can be found in the Project Settings (API tab)
-  file_format: FORMAT_API_EXTENSION #Find the format you want to use here: https://help.phrase.com/help/supported-platforms-and-formats , access the article and copi the API extension
-  
+  access_token: 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
+  project_id: 5a7501ac1e70e4b98f959b740d92e920
+  file_format: nested_json 
+
   push:
     sources:
-    - file: ./path/to/file/file.format #Provide the path to the file(s) you want to push here, starting from the location of the configuration file. You can use the placeholders <locale_name>, <locale_code> and <tags> in the path or file-name
+    - file: ./src/assets/translations/en.json #Provide the path to the file(s) you want to push here, starting from the location of the configuration file. You can use the placeholders <locale_name>, <locale_code> and <tags> in the path or file-name
       params:
         file_format: FORMAT_API_EXTENSION (string) #See above. Only required if you deviate from the default format set in the header
         locale_id: LOCALE_ID (string) #Can be the name (e.g. en-US) or public id (via Language settings -> API) of the locale. Preferred is the public id.
@@ -38,7 +38,7 @@ phrase:
           
   pull:
     targets:
-    - file: ./path/to/file/file.format
+    - file: ./src/assets/translations/en.json
       params:
         file_format: FORMAT_API_EXTENSION (string) #See above. Only required if you deviate from the default format set in the header
         locale_id: LOCALE_ID (string) #Can be the name (e.g. en-US) or public id (via Language settings -> API) of the locale. Preferred is the public id.
