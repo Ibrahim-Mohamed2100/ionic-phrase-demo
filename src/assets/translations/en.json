@@ -1,0 +1,14 @@
+{
+    "Screen": {
+      "Root": {
+        "Home": {
+          "Emptystate": {
+            "Body": "You can now join multiple circles",
+            "button": "Join now",
+            "Heading": "What a Great deal!"
+          },
+          "Heading": "Home"
+        }
+      }
+    }
+  }
