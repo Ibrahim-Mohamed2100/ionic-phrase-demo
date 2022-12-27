@@ -1,18 +1,14 @@
 {
-  "Demo": {
-    "Labels": {
-      "typography": "Typography",
-      "ctaHeader": "CTA header",
-      "mainHeader": "Main Header",
-      "secondaryHeader": "Secondary header",
-      "mainBodyBold": "Main body bold",
-      "mainBodyRegular": "Main body Regular",
-      "secondaryBodyBold": "Sec. Body Bold",
-      "secondaryBodyRegular": "Sec. body Regular",
-      "tagText": "Tags text",
-      "TypographyHeaderMain": "One morning, when Gregor",
-      "TypographyHeaderSecondary": "One morning, when Gregor Samsa woke from troubled",
-      "TypographyBody": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin."
+  "Screen": {
+    "Root": {
+      "Home": {
+        "Emptystate": {
+          "Body": "You can now join multiple circles",
+          "button": "Join now",
+          "Heading": "What a Great deal!"
+        },
+        "Heading": "Home"
+      }
     }
   }
 }
