@@ -5,7 +5,7 @@ phrase:
 
   push:
     sources:
-    - file: ./src/assets/translations/en.json          
+    - file: ./src/assets/translations/<locale_code>.json          
   pull:
     targets:
-    - file: ./src/assets/translations/en.json
+    - file: ./src/assets/translations/<locale_code>.json
