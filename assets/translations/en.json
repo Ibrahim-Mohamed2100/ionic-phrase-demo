@@ -3,17 +3,17 @@
     "Root": {
       "Home": {
         "Emptystate": {
-          "Body": "You can now join multiple circles",
+          "Body": "You cannot join any circles",
           "button": "Join now",
           "Heading": "What a Great deal!"
         },
         "Heading": "New Home"
       },
-      "Settings":{
-        "Heading": "Settings",
-        "Language": "Language",
+      "Settings": {
         "Arabic": "اللغة العربية",
-        "English": "English"
+        "English": "English",
+        "Heading": "Settings",
+        "Language": "Language"
       }
     }
   }

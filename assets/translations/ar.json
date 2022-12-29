@@ -9,11 +9,11 @@
         },
         "Heading": "الرئيسية"
       },
-      "Settings":{
-        "Heading": "الإعدادات",
-        "Language": "لغة التطبيق",
+      "Settings": {
         "Arabic": "اللغة العربية",
-        "English": "English"
+        "English": "English",
+        "Heading": "الإعدادات",
+        "Language": "لغة التطبيق"
       }
     }
   }
