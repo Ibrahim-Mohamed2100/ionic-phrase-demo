@@ -9,7 +9,7 @@ import { TranslateService } from '@ngx-translate/core';
 export class Tab3Page {
   constructor(private translateService: TranslateService) {}
 
-  changeLanguage(langCode: string) {
-    this.translateService.use(langCode);
+  changeLanguage(event: any) {
+    this.translateService.use(event.detail.value);
   }
 }

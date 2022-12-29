@@ -8,6 +8,12 @@
           "Heading": "What a Great deal!"
         },
         "Heading": "New Home"
+      },
+      "Settings":{
+        "Heading": "Settings",
+        "Language": "Language",
+        "Arabic": "اللغة العربية",
+        "English": "English"
       }
     }
   }
