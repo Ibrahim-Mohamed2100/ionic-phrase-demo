@@ -8,6 +8,12 @@
           "Heading": "يالها من صفقة جيدة!"
         },
         "Heading": "الرئيسية"
+      },
+      "Settings":{
+        "Heading": "الإعدادات",
+        "Language": "لغة التطبيق",
+        "Arabic": "اللغة العربية",
+        "English": "English"
       }
     }
   }
